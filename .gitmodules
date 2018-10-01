@@ -1,0 +1,3 @@
+[submodule "AlphabetAgents"]
+	path = AlphabetAgents
+	url = https://github.com/nicknickgreg/AlphabetAgents.git
